@@ -49,23 +49,11 @@ This is more than just a code dump — it's a **structured learning + implementa
 
 ## 🚀 Getting Started
 
-1. Clone this repo:
+ Clone this repo:
    ```bash
    git clone https://github.com/yourusername/ALL-About-AIML.git
    cd ALL-About-AIML
    ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Explore by folder or topic. Most folders contain:
-   - `main.py` / `notebook.ipynb`
-   - Short explanation + example dataset
-   - Expected output for reference
-
----
 
 ## 📝 Learning Plan Behind This Repo
 
