@@ -34,17 +34,6 @@ This is more than just a code dump — it's a **structured learning + implementa
 - **PyTorch implementation** from scratch
 - Toy translation tasks (e.g., English ↔ French)
 
-### ✅ NLP + Applications
-- Tokenization (spaCy, NLTK)
-- Word Embeddings (Word2Vec, GloVe)
-- NER, Summarization
-- Transformers in production: BERT, GPT, T5
-
-### ✅ ML System Design
-- Model deployment (FastAPI, Streamlit)
-- Experiment tracking (MLflow, DVC)
-- Workflow orchestration (Airflow)
-
 ---
 
 ## 🚀 Getting Started
